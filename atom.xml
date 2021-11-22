@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alexwebsite1.github.io/</id>
     <title>Alex&apos;s Blog</title>
-    <updated>2021-11-22T17:52:17.400Z</updated>
+    <updated>2021-11-22T18:36:38.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alexwebsite1.github.io/"/>
     <link rel="self" href="https://alexwebsite1.github.io/atom.xml"/>
@@ -10,6 +10,43 @@
     <logo>https://alexwebsite1.github.io/images/avatar.png</logo>
     <icon>https://alexwebsite1.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Alex&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[学习]]></title>
+        <id>https://alexwebsite1.github.io/post/xue-xi/</id>
+        <link href="https://alexwebsite1.github.io/post/xue-xi/">
+        </link>
+        <updated>2021-11-22T18:35:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>1231😀<br>
+3131<br>
+123</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>1231😀<br>
+3131<br>
+123</p>
+<!-- more -->
+<p>123<br>
+1<br>
+23<br>
+124😀</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://alexwebsite1.github.io/post/ce-shi/</id>
+        <link href="https://alexwebsite1.github.io/post/ce-shi/">
+        </link>
+        <updated>2021-11-22T18:33:30.000Z</updated>
+        <content type="html"><![CDATA[<p>这是一盘测试文章<br>
+123<br>
+123123<br>
+123123<br>
+123123<br>
+123123<br>
+123123<br>
+123123<br>
+123123</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://alexwebsite1.github.io/post/hello-gridea/</id>
